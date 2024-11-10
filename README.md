@@ -1,6 +1,5 @@
 # programma
 статьи и новости о программировании
-remote_theme: pages-themes/midnight@v0.2.0
 <!DOCTYPE html>
 <html lang="en">
 <head>
